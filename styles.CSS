@@ -4,6 +4,7 @@ color:green ;
 html{
    background-color: orange; 
 }
-.green-text{
-    color: green;
+img{
+ max-width: 100%; 
+ height: auto; 
 }
